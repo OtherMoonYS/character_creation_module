@@ -1,4 +1,5 @@
-from asciimatics.renderers import FigletText, Fire
+from asciimatics.renderers import FigletText
+from asciimatics.renderers import Fire
 from asciimatics.renderers import SpeechBubble
 from asciimatics.scene import Scene
 from asciimatics.screen import Screen
